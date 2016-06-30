@@ -9,6 +9,7 @@
 		"Align Arguments",
 		"Alignment",
 		"All Autocomplete",
+		"ApacheConf.tmLanguage",
 		"AutoFileName",
 		"AutomaticFullscreen",
 		"Autoprefixer",
@@ -19,13 +20,16 @@
 		"CSScomb",
 		"CTags",
 		"DocBlockr",
+		"DocBlockr_with_update_capability",
 		"DocPHPManualer",
 		"DotENV",
 		"EditorConfig",
 		"Emmet",
+		"Facebook Material Theme",
 		"Function Name Display",
 		"GitGutter",
 		"GitGutter-Edge",
+		"Gitignore",
 		"Go To Definition",
 		"HTML-CSS-JS Prettify",
 		"jQuery",
@@ -64,6 +68,7 @@
 		"View In Browser",
 		"VintageLines",
 		"WordPress",
+		"WordPress Customizer",
 		"Xdebug Client"
 	]
 }
