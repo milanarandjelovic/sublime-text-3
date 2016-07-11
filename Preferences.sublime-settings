@@ -5,7 +5,7 @@
 	"auto_complete_with_fields": true,
 	"auto_indent": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Facebook Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material Spacegray (SL).tmTheme",
 	"font_face": "Fira Code",
 	"font_options":
 	[
@@ -27,7 +27,6 @@
 	],
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
-	"material_theme_accent_red": true,
 	"material_theme_bold_tab": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
