@@ -1,4 +1,6 @@
 [
+    { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+
     // PHP Companion
     { "keys": ["f10"], "command": "expand_fqcn" },
     { "keys": ["f11"], "command": "expand_fqcn", "args": {"leading_separator": true} },
