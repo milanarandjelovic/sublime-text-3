@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+view()->composer('${1:name}', '${2:App\Http\ViewComposers\SomeComposer}');
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>view_composerClass</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Define a Class-based View Composer</description>
+</snippet>
