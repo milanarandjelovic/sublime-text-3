@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+\$this->info('${1:Message}');
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>Console::info</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Log information to the console in green</description>
+</snippet>
