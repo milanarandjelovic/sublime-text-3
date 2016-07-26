@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$request->pjax()
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rpjax</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Determine if the request is the result of an PJAX call</description>
+</snippet>

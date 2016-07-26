@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$request->url()
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rurl</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Get the URL (no query string) for the request</description>
+</snippet>
