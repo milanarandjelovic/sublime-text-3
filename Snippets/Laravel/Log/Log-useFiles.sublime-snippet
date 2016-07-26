@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Log::useFiles('${1:path}', '${2:level}');
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>Log::useFiles</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Register a file log handler</description>
+</snippet>

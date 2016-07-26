@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Log::useDailyFiles('${1:path}', ${2:days}, '${3:level}');
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>Log::useDailyFiles</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Register a daily file log handler</description>
+</snippet>
