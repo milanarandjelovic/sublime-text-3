@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$request->session()->forget('${1:key}');
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>r_session_forget</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Remove an Item from the Session</description>
+</snippet>
