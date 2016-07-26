@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$table->binary('${1:data}')${2:->nullable()}${3:->default(${4:12})};
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tbinary</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>BLOB equivalent to the table</description>
+</snippet>

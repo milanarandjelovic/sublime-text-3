@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$table->engine = '${1:InnoDB}';
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tengine</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Set the storage engine for a table</description>
+</snippet>

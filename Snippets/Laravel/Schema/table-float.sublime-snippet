@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$table->float('${1:amount}')${2:->nullable()}${3:->default(${4:123.45})};
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tfloat</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>FLOAT equivalent to the table</description>
+</snippet>

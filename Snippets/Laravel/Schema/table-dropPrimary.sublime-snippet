@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$table->dropPrimary('${1:users_id_primary}');
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>tdropPrimary</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Drop a Primary key</description>
+</snippet>

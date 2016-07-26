@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$table->time('${1:sunrise}')${2:->nullable()}${3:->default(${4:new DateTime()})};
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ttime</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>TIME equivalent to the table</description>
+</snippet>
