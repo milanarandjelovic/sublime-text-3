@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Storage::type(${1:filePath});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>Storage::type</tabTrigger>
+	<scope>source.php</scope>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>Get the file type of a given file</description>
+</snippet>
