@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+title_case(${1:'fooBar'});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>title_case</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Convert a value to title case</description>
+</snippet>

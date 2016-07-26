@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+array_forget(${1:\$array}, ${2:'names.joe'});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>array_forget</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Remove one or many array items from a given array using "dot" notation</description>
+</snippet>

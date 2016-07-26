@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+str_is(${1:'foo*'}, ${2:'foobar'});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>str_is</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Add a single instance of the given needle to the haystack. Remove any extra instances</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+str_slug(${1:'fooBar'});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>str_slug</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Generate a URL friendly "slug" from a given string</description>
+</snippet>

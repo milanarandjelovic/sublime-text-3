@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+array_prepend(${1:\$array}, ${2:'value'});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>array_prepend</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Push an item onto the beginning of an array</description>
+</snippet>

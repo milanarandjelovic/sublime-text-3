@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+str_contains(${1:'This is my name'}, ${2:'my'});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>str_contains</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Determine if the given haystack contains the given needle</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+studly_case(${1:'foo_bar'});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>studly_case</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Convert the given string to StudlyCase</description>
+</snippet>

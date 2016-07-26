@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+csrf_field();
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>csrf_field</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Get the value of the current CSRF token</description>
+</snippet>
