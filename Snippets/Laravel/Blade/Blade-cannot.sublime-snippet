@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+@cannot('${1:ability}', ${2:\$object})
+    ${3:{{-- expr --\}\}}
+@endcannot
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>cannot</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.blade</scope>
+    <description>Blade @cannot</description>
+</snippet>

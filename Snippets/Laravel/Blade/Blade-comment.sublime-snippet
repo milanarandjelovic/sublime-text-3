@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{{-- ${0:comment} --}}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bcomment</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.blade</scope>
+    <description>Blade comments</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@lang('${1:language.line}'${2:, [${3:'variable'} => ${4:'replacement'}]})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>lang</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.blade</scope>
+    <description>Blade @lang</description>
+</snippet>
