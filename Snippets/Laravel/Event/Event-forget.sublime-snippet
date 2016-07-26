@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Event::forget('${1:event}');
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>Event::forget</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Remove a set of listeners from the dispatcher</description>
+</snippet>

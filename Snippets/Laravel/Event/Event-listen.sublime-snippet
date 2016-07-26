@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Event::listen(${1:events}, ${2:listener}, ${3:priority});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>Event::listen</tabTrigger>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <scope>source.php</scope>
+    <description>Register an event listener with the dispatcher</description>
+</snippet>
