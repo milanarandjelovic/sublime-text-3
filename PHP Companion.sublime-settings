@@ -1,0 +1,10 @@
+{
+    "use_sort_length": true,
+    "exclude_dir": [
+        "node_modules",
+        "vendor",
+        "_ide_helper.php",
+        "lumen_ide_helper.php",
+        ".phpstorm.meta.php"
+    ]
+}
