@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+Route::match([${1:'get', 'post'}], '${2:/user/profile}', function() {
+    ${3://}
+});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rmatch</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Register a new route with the given verbs</description>
+</snippet>
