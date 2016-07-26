@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+return redirect()
+    ->route('${1:named_route}')
+    ->withErrors(${2:\$validator});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>redirect_withErrors</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.php</scope>
+    <description>Redirect to URL, Route or Controller with Errors</description>
+</snippet>
