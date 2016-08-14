@@ -67,7 +67,8 @@
             ],
             "osx": [],
             "windows": [
-                "C:/xampp/php"
+                "C:/xampp/php",
+                "C:/Program Files/nodejs/node.exe"
             ]
         },
         "python_paths": {
