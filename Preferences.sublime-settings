@@ -5,14 +5,14 @@
 	"auto_complete_with_fields": true,
 	"auto_indent": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Material Spacegray (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
 	"font_face": "Fira Code",
 	"font_options":
 	[
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 12,
 	"ha_style": "filled",
 	"highlight_line": true,
 	"hot_exit": false,
