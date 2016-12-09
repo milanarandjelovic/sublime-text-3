@@ -1,5 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
+	"atomic_save": true,
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
@@ -16,6 +17,7 @@
 	"ha_style": "filled",
 	"highlight_line": true,
 	"hot_exit": false,
+	"draw_white_space": "all",
 	"ignored_packages":
 	[
 		"Vintage"
@@ -32,6 +34,7 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"overlay_scroll_bars": "enabled",
+	"remember_full_screen": true,
 	"remember_open_files": false,
 	"rulers":
 	[
