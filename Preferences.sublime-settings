@@ -7,6 +7,7 @@
 	"auto_indent": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Facebook (SL).tmTheme",
+	"draw_white_space": "all",
 	"font_face": "Fira Code",
 	"font_options":
 	[
@@ -17,7 +18,6 @@
 	"ha_style": "filled",
 	"highlight_line": true,
 	"hot_exit": false,
-	"draw_white_space": "all",
 	"ignored_packages":
 	[
 		"Vintage"
@@ -29,7 +29,12 @@
 	],
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,
-	"material_theme_bold_tab": true,
+	"material_theme_bold_tab": true, // Make the tab labels bolder
+	"material_theme_bullet_tree_indicator": true , // Set a bullet as active tree indicator
+	"material_theme_compact_sidebar": true , // Set compact side bar
+	"material_theme_small_tab": true , // Set small tabs
+	"material_theme_tabs_autowidth": true , // Enable autowidth for tabs
+	"material_theme_tabs_separator": true , // Show tabs separator, this disables tab hover animation
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
