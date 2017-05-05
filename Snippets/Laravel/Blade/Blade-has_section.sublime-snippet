@@ -4,7 +4,7 @@
     ${2:{{-- true expr --\}\}}
 @else
     ${3:{{-- false expr --\}\}}
-@endif$0.
+@endif$0
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>hass</tabTrigger>
