@@ -3,7 +3,7 @@
 Storage::prepend(${1:filePath}, ${2:Prepended Text});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>Storage::prepend</tabTrigger>
+	<tabTrigger>storage_prepend</tabTrigger>
 	<scope>source.php</scope>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<description>Insert content at the beginning of a file</description>

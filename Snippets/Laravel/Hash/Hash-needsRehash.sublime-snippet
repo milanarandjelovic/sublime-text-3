@@ -6,7 +6,7 @@ if (Hash::needsRehash(${1:\$hashedValue}))
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Hash::needsRehash</tabTrigger>
+    <tabTrigger>hashneedsRehash</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Check if the given hash has been hashed using the given options</description>

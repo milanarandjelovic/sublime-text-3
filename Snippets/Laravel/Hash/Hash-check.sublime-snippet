@@ -3,7 +3,7 @@
 Hash::check(${1:\$value}, ${2:\$hashedValue})
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Hash::check</tabTrigger>
+    <tabTrigger>hashcheck</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
 	<description>Check the given plain value against a hash</description>

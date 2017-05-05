@@ -3,7 +3,7 @@
 Storage::name(${1:filePath});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>Storage::name</tabTrigger>
+	<tabTrigger>storage_name</tabTrigger>
 	<scope>source.php</scope>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<description>Extract the file name from a file path</description>

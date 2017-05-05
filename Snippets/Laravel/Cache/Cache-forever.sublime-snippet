@@ -3,7 +3,7 @@
 Cache::forever('${1:key}', ${2:\$value});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Cache::forever</tabTrigger>
+    <tabTrigger>cacheforever</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Store an item in the Cache Permanently</description>

@@ -3,7 +3,7 @@
 Storage::cleanDirectory(${1:directory});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>Storage::cleanDirectory</tabTrigger>
+	<tabTrigger>storage_cleanDirectory</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 	<description>Empty the specified directory of all files and folders</description>

@@ -19,7 +19,7 @@ Mail::queue('${1:Html.view}', ${2:\$data}, function (${3:\$message}) {
 });
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Mail::queue</tabTrigger>
+    <tabTrigger>mailqueue</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Queue a new e-mail message for sending</description>

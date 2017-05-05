@@ -3,7 +3,7 @@
 Schema::rename('${1:\$from}', '${2:\$to}');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Schema::rename-table</tabTrigger>
+    <tabTrigger>schema_rename_table</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Rename an existing database table</description>

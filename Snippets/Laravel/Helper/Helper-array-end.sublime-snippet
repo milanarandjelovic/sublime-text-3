@@ -3,7 +3,7 @@
 last(${1:\$array);
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>array-last</tabTrigger>
+    <tabTrigger>array_last</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Get the last element of an array. Useful for method chaining</description>

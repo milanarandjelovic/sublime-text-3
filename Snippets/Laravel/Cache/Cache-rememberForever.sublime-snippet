@@ -5,7 +5,7 @@ Cache::rememberForever('${1:key}', function() {
 });
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Cache::rememberForever</tabTrigger>
+    <tabTrigger>cacherememberForever</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Retrieve item or Store a default value permanently</description>

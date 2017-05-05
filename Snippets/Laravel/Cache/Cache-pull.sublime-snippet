@@ -3,7 +3,7 @@
 Cache::pull('${1:key}');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Cache::pull</tabTrigger>
+    <tabTrigger>cachepull</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Pulling An Item From The Cache</description>

@@ -3,7 +3,7 @@
 \$this->confirm('${1:Do you wish to continue? [y|N]}');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Console::confirm</tabTrigger>
+    <tabTrigger>consconfirm</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Logs a confirmation prompt to the console</description>

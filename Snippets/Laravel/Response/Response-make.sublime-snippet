@@ -3,7 +3,7 @@
 return Response::make(${1:\$contents}${2:[, 200]}${3:[, \$headers]});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>Response::make</tabTrigger>
+	<tabTrigger>response_make</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 	<description>Create a Custom Response</description>

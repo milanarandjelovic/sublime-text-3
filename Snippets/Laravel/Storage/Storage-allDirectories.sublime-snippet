@@ -3,7 +3,7 @@
 Storage::allDirectories(${1:directory});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>Storage::allDirectories</tabTrigger>
+	<tabTrigger>storage_allDirectories</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
 	<description>Returns an array of all the directories within a given directory and all of its sub-directories</description>

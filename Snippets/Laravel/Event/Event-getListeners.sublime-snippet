@@ -3,7 +3,7 @@
 Event::getListeners('${1:eventName}');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Event::getListeners</tabTrigger>
+    <tabTrigger>eventgetListeners</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Get all of the listeners for a given event name</description>

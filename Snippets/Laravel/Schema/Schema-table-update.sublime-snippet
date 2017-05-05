@@ -5,7 +5,7 @@ Schema::table('${1:users}', function(\$table) {
 });
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Schema::table-update</tabTrigger>
+    <tabTrigger>schema_table_update</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Update an existing table</description>

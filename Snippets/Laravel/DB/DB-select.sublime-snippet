@@ -3,7 +3,7 @@
 DB::select(${1:'select * from users where active = ?'}${2:, [1]})
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>DB::select</tabTrigger>
+    <tabTrigger>dbselect</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Run a select statement against the database</description>

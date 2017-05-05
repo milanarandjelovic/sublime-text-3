@@ -3,7 +3,7 @@
 Log::info('${1:message}');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Log::info</tabTrigger>
+    <tabTrigger>loginfo</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Log an informational message to the logs</description>

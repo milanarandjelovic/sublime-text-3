@@ -3,7 +3,7 @@
 \$this->error('${1:Message}');
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Console::error</tabTrigger>
+    <tabTrigger>conserror</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Log error to the console in red</description>

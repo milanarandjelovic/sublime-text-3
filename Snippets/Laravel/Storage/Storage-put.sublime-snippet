@@ -3,7 +3,7 @@
 Storage::put(${1:filePath}, ${2:\$contents});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>Storage::put</tabTrigger>
+	<tabTrigger>storage_put</tabTrigger>
 	<scope>source.php</scope>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<description>Store a file on disk</description>

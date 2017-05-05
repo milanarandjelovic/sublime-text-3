@@ -3,7 +3,7 @@
 Event::firing()
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>Event::firing</tabTrigger>
+    <tabTrigger>eventfiring</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <scope>source.php</scope>
     <description>Get the event that is currently firing</description>
