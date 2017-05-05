@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@slack('${1:hook}', '${2:channel}', '${3:message}')$0.
+@slack('${1:hook}', '${2:channel}', '${3:message}')$0
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>slack</tabTrigger>
