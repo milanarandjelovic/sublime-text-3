@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+import React, { Component } from 'react';
+
+export class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}} extends Component {
+  render() {
+    return ${2:(
+      ${3:<div>${0}</div>}
+    );}
+  }
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rcc</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+    <description>React: Class component</description>
+</snippet>

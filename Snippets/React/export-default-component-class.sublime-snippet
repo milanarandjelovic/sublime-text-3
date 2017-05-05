@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+export default class $1 extends Component {
+  state = { $2 }
+  render() {
+    return (
+      $3
+    );
+  }
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>edccs</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+    <description>React: Export default Component Class</description>
+</snippet>
