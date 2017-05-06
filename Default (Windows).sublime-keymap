@@ -16,5 +16,8 @@
 
     // Simple PHPUnit
     { "keys": [",", "p"], "command": "simple_php_unit" },
-    { "keys": [",", "f"], "command": "simple_php_unit", "args": { "test_current_file": true } }
+    { "keys": [",", "f"], "command": "simple_php_unit", "args": { "test_current_file": true } },
+    
+    // Toggle full screen
+    { "keys": ["ctrl+f11"], "command": "toggle_full_screen" }
 ]
