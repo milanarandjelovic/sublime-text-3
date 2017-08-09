@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-${1:public} function ${2:name}(${3:params})
+${1:public} function ${2:name}(${3:\$arg})
 {
-    $4
+    ${4://}
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
